@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Firebase — never commit these
+/app/google-services.json
+/seed/serviceAccountKey.json
+firebase-functions/.env
+firebase-functions/.env.local
+
+# Sensitive
+*.keystore
+*.jks

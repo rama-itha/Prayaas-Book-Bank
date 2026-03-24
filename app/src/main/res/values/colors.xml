@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#E8621A</color>
+    <color name="prayaas_orange">#E8621A</color>
+    <color name="prayaas_orange_dark">#B84D10</color>
+    <color name="prayaas_orange_light">#FFF0E8</color>
+    <color name="prayaas_black">#1A1A1A</color>
+    <color name="prayaas_white">#FFFFFF</color>
+    <color name="prayaas_bg">#F8F5F2</color>
+    <color name="prayaas_success">#2E7D32</color>
+    <color name="prayaas_error">#C62828</color>
+    <color name="prayaas_warning">#F57F17</color>
+    <color name="prayaas_info">#1565C0</color>
+</resources>

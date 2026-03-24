@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Foreground layer for the adaptive launcher icon.
+  Uses the Prayaas orange flower silhouette concept.
+  For production, replace this with a proper vector export of the logo.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer petals (orange) -->
+    <path
+        android:fillColor="#E8621A"
+        android:pathData="M54,18 C54,18 46,26 46,34 C46,38 50,40 54,40 C58,40 62,38 62,34 C62,26 54,18 54,18 Z" />
+    <path
+        android:fillColor="#E8621A"
+        android:pathData="M54,18 C54,18 62,26 70,28 C73,29 74,25 72,22 C68,16 54,18 54,18 Z" />
+    <path
+        android:fillColor="#E8621A"
+        android:pathData="M54,18 C54,18 46,26 38,28 C35,29 34,25 36,22 C40,16 54,18 54,18 Z" />
+    <path
+        android:fillColor="#F4884A"
+        android:pathData="M54,20 C54,20 48,27 48,33 C48,36 51,38 54,38 C57,38 60,36 60,33 C60,27 54,20 54,20 Z" />
+
+    <!-- Center circle -->
+    <circle
+        android:fillColor="#FFFFFF"
+        android:cx="54"
+        android:cy="40"
+        android:r="8" />
+    <circle
+        android:fillColor="#E8621A"
+        android:cx="54"
+        android:cy="40"
+        android:r="5" />
+
+    <!-- Stem -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M51,48 L53,80 L55,80 L57,48 Z"
+        android:strokeColor="#1A1A1A"
+        android:strokeWidth="1" />
+
+    <!-- Left leaf -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M52,62 C52,62 40,58 36,64 C40,68 52,66 52,62 Z" />
+
+    <!-- Right leaf -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M56,68 C56,68 68,64 72,70 C68,74 56,72 56,68 Z" />
+
+</vector>

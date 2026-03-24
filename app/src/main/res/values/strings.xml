@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prayaas Book Bank</string>
+    <string name="role_student">Student</string>
+    <string name="role_admin">Admin</string>
+    <string name="catalogue_title">Book Catalogue</string>
+    <string name="cart_title">My Cart</string>
+    <string name="checkout_title">Checkout</string>
+    <string name="order_success_title">Order Placed!</string>
+    <string name="admin_panel_title">Admin Panel</string>
+    <string name="scan_qr_title">Scan QR Code</string>
+    <string name="inventory_title">Inventory</string>
+
+    <string name="search_hint">Search by title, author, subject…</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="added_to_cart">✓ Added</string>
+    <string name="proceed_checkout">Proceed to Checkout</string>
+    <string name="place_order">Place Order</string>
+
+    <string name="field_name">Full Name</string>
+    <string name="field_student_id">College ID Number</string>
+    <string name="field_mobile">Mobile Number</string>
+    <string name="field_email">Email Address</string>
+
+    <string name="status_pending">Pending</string>
+    <string name="status_issued">Issued</string>
+    <string name="status_returned">Returned</string>
+    <string name="status_partial">Partial</string>
+
+    <string name="btn_issue">Issue</string>
+    <string name="btn_return">Return</string>
+    <string name="btn_confirm_issue">Confirm Issue</string>
+    <string name="btn_confirm_return">Confirm Return</string>
+    <string name="btn_scan_again">Scan Again</string>
+    <string name="btn_back_catalogue">← Back to Catalogue</string>
+
+    <string name="camera_permission_rationale">Camera permission is needed to scan book QR codes.</string>
+
+    <string name="empty_cart_title">Your cart is empty</string>
+    <string name="empty_cart_subtitle">Browse the catalogue and add books to borrow</string>
+    <string name="empty_orders_title">No orders yet</string>
+    <string name="empty_orders_subtitle">Orders placed by students will appear here</string>
+
+    <string name="pickup_instructions">Collect books from the Prayaas Book Bank counter during working hours (10:00 AM – 5:00 PM, Mon–Sat). Carry your college ID.</string>
+    <string name="email_notice">A confirmation email will be sent to your email address with book details and pickup instructions.</string>
+
+    <string name="qr_scan_prompt">Point camera at the QR code on the physical book</string>
+    <string name="qr_scanned">QR Code Scanned</string>
+    <string name="qr_invalid">Invalid QR code format</string>
+    <string name="issue_success">Book issued successfully!</string>
+    <string name="return_success">Return recorded successfully!</string>
+
+    <string name="about_book">About this book</string>
+    <string name="book_details">Book Details</string>
+    <string name="qr_code_system">QR Code System</string>
+    <string name="available_copies">Available Copies</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="unavailable">Unavailable</string>
+</resources>

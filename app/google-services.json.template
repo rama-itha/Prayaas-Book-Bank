@@ -1,0 +1,35 @@
+{
+  "_comment": "IMPORTANT: Replace this file with your actual google-services.json downloaded from Firebase Console.",
+  "_instructions": [
+    "1. Go to https://console.firebase.google.com",
+    "2. Create a new project named 'prayaas-book-bank' (or any name)",
+    "3. Add an Android app with package name: com.prayaas.bookbank",
+    "4. Download google-services.json and place it at: app/google-services.json",
+    "5. Enable Firestore, Authentication, Storage, and Functions in Firebase Console",
+    "6. Set Firestore rules (see firestore.rules file)",
+    "7. Deploy Cloud Functions: cd firebase-functions && npm install && firebase deploy --only functions",
+    "8. Set email secrets: firebase functions:secrets:set GMAIL_USER && firebase functions:secrets:set GMAIL_PASS"
+  ],
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "YOUR_MOBILESDK_APP_ID",
+        "android_client_info": {
+          "package_name": "com.prayaas.bookbank"
+        }
+      },
+      "api_key": [{ "current_key": "YOUR_API_KEY" }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
