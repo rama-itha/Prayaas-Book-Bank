@@ -1,0 +1,64 @@
+<svg width="280" height="560" viewBox="0 0 280 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="screenClip">
+      <rect x="12" y="20" width="256" height="496" rx="28"/>
+    </clipPath>
+  </defs>
+  <!-- device body -->
+  <rect x="2" y="2" width="276" height="556" rx="38" fill="#1C1C1E" stroke="#3A3A3C" stroke-width="1.5"/>
+  <rect x="10" y="18" width="260" height="500" rx="30" fill="#0F0F0F"/>
+  <!-- notch -->
+  <rect x="95" y="18" width="90" height="22" rx="0 0 11 11" fill="#1C1C1E"/>
+  <!-- screen content -->
+  <g clip-path="url(#screenClip)">
+    
+  <rect x="12" y="20" width="256" height="50" fill="#E8621A"/>
+  <rect x="18" y="30" width="24" height="24" rx="12" fill="rgba(255,255,255,.2)"/>
+  <text x="30" y="46" text-anchor="middle" font-size="16" fill="white">‹</text>
+  <text x="55" y="40" font-family="system-ui,sans-serif" font-size="13" font-weight="800" fill="white">Checkout</text>
+  <text x="55" y="55" font-family="system-ui,sans-serif" font-size="9" fill="rgba(255,255,255,.8)">Fill in your details</text>
+  <!-- details card -->
+  <rect x="14" y="74" width="252" height="192" rx="14" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/>
+  <text x="26" y="91" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#F0F0F0">Your Details</text>
+  
+  <text x="28" y="96" font-family="system-ui,sans-serif" font-size="8.5" font-weight="600" fill="#F0F0F0">Full Name *</text>
+  <rect x="24" y="100" width="232" height="26" rx="8" fill="#2A2A2A" stroke="#333" stroke-width="0.5"/>
+  <text x="32" y="117" font-family="system-ui,sans-serif" font-size="9" fill="#F0F0F0">Rahul Sharma</text>
+
+  <text x="28" y="134" font-family="system-ui,sans-serif" font-size="8.5" font-weight="600" fill="#F0F0F0">College ID Number *</text>
+  <rect x="24" y="138" width="232" height="26" rx="8" fill="#2A2A2A" stroke="#333" stroke-width="0.5"/>
+  <text x="32" y="155" font-family="system-ui,sans-serif" font-size="9" fill="#F0F0F0">2021CS001</text>
+
+  <text x="28" y="172" font-family="system-ui,sans-serif" font-size="8.5" font-weight="600" fill="#F0F0F0">Mobile Number *</text>
+  <rect x="24" y="176" width="232" height="26" rx="8" fill="#2A2A2A" stroke="#333" stroke-width="0.5"/>
+  <text x="32" y="193" font-family="system-ui,sans-serif" font-size="9" fill="#F0F0F0">9876543210</text>
+
+  <text x="28" y="210" font-family="system-ui,sans-serif" font-size="8.5" font-weight="600" fill="#F0F0F0">Email Address *</text>
+  <rect x="24" y="214" width="232" height="26" rx="8" fill="#2A2A2A" stroke="#E8621A" stroke-width="1.5"/>
+  <text x="32" y="231" font-family="system-ui,sans-serif" font-size="9" fill="#F0F0F0">rahul@college.edu</text>
+
+  <!-- summary -->
+  <rect x="14" y="274" width="252" height="120" rx="14" fill="#2A1800" stroke="#3A2200" stroke-width=".5"/>
+  <text x="26" y="292" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#FFB74D">Order Summary</text>
+  
+  <circle cx="32" cy="271" r="4" fill="#3949AB"/>
+  <text x="42" y="276" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Data Structures & Algorithms</text>
+  <line x1="24" y1="283" x2="256" y2="283" stroke="#3A3A1A" stroke-width=".5"/>
+
+  <circle cx="32" cy="293" r="4" fill="#C62828"/>
+  <text x="42" y="298" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Computer Networks</text>
+  <line x1="24" y1="305" x2="256" y2="305" stroke="#3A3A1A" stroke-width=".5"/>
+
+  <circle cx="32" cy="315" r="4" fill="#1565C0"/>
+  <text x="42" y="320" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Engineering Mathematics</text>
+  <line x1="24" y1="327" x2="256" y2="327" stroke="#3A3A1A" stroke-width=".5"/>
+
+  <text x="26" y="376" font-family="system-ui,sans-serif" font-size="9" font-weight="700" fill="#FFB74D">3 book(s) to be issued</text>
+  <!-- email notice -->
+  <text x="20" y="406" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">📧 Confirmation email will be sent to your address.</text>
+  <!-- button -->
+  <rect x="14" y="420" width="252" height="40" rx="13" fill="#E8621A"/>
+  <text x="140" y="445" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="white">✓  Place Order</text>
+
+  </g>
+</svg>

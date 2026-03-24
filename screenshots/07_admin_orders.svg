@@ -1,0 +1,74 @@
+<svg width="280" height="560" viewBox="0 0 280 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="screenClip">
+      <rect x="12" y="20" width="256" height="496" rx="28"/>
+    </clipPath>
+  </defs>
+  <!-- device body -->
+  <rect x="2" y="2" width="276" height="556" rx="38" fill="#1C1C1E" stroke="#3A3A3C" stroke-width="1.5"/>
+  <rect x="10" y="18" width="260" height="500" rx="30" fill="#0F0F0F"/>
+  <!-- notch -->
+  <rect x="95" y="18" width="90" height="22" rx="0 0 11 11" fill="#1C1C1E"/>
+  <!-- screen content -->
+  <g clip-path="url(#screenClip)">
+    
+  <rect x="12" y="20" width="256" height="50" fill="#E8621A"/>
+  <rect x="18" y="30" width="24" height="24" rx="12" fill="rgba(255,255,255,.2)"/>
+  <text x="30" y="46" text-anchor="middle" font-size="16" fill="white">‹</text>
+  <text x="55" y="40" font-family="system-ui,sans-serif" font-size="13" font-weight="800" fill="white">Admin Panel</text>
+  <text x="55" y="55" font-family="system-ui,sans-serif" font-size="9" fill="rgba(255,255,255,.8)">Book Bank Management</text>
+  <text x="242" y="47" text-anchor="middle" font-size="18">📦</text>
+  <!-- tabs -->
+  <rect x="12" y="70" width="256" height="28" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/>
+  <text x="50" y="88" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9.5" font-weight="700" fill="#E8621A">All</text><text x="104" y="88" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9.5" font-weight="400" fill="#666666">Pending</text><text x="158" y="88" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9.5" font-weight="400" fill="#666666">Issued</text><text x="212" y="88" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9.5" font-weight="400" fill="#666666">Returned</text>
+  <line x1="24" y1="98" x2="76" y2="98" stroke="#E8621A" stroke-width="2"/>
+  <!-- stat cards -->
+  <rect x="18" y="104" width="54" height="34" rx="9" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/><text x="45" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="800" fill="#E8621A">12</text><text x="45" y="131" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" fill="#666666">Total</text><rect x="80" y="104" width="54" height="34" rx="9" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/><text x="107" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="800" fill="#FFB74D">4</text><text x="107" y="131" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" fill="#666666">Pending</text><rect x="142" y="104" width="54" height="34" rx="9" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/><text x="169" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="800" fill="#64B5F6">6</text><text x="169" y="131" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" fill="#666666">Issued</text><rect x="204" y="104" width="54" height="34" rx="9" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/><text x="231" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="800" fill="#4CAF50">2</text><text x="231" y="131" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" fill="#666666">Return.</text>
+  
+  <rect x="14" y="146" width="252" height="104" rx="12" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/>
+  <text x="24" y="160" font-family="system-ui,sans-serif" font-size="7" fill="#666666">Order #PBB-2024</text>
+  <text x="24" y="174" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#F0F0F0">Priya Mehta</text>
+  <text x="24" y="187" font-family="system-ui,sans-serif" font-size="7.5" fill="#A0A0A0">ID: 2022CS047 · 📱 9123456789</text>
+  <rect x="170" y="160" width="88" height="17" rx="8.5" fill="#3A2800"/>
+  <text x="214" y="172" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="#FFB74D">⏳ Pending</text>
+  <line x1="24" y1="196" x2="252" y2="196" stroke="#2A2A2A" stroke-width=".5"/>
+
+  <text x="24" y="208" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Data Structures</text>
+  
+  <rect x="202" y="196" width="50" height="15" rx="7.5" fill="#E8621A"/>
+  <text x="227" y="206" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="white">Issue</text>
+
+  <text x="24" y="230" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Computer Networks</text>
+  
+  <rect x="202" y="218" width="50" height="15" rx="7.5" fill="#E8621A"/>
+  <text x="227" y="228" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="white">Issue</text>
+
+  <rect x="14" y="258" width="252" height="82" rx="12" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/>
+  <text x="24" y="272" font-family="system-ui,sans-serif" font-size="7" fill="#666666">Order #PBB-2024</text>
+  <text x="24" y="286" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#F0F0F0">Arjun Patel</text>
+  <text x="24" y="299" font-family="system-ui,sans-serif" font-size="7.5" fill="#A0A0A0">ID: 2021EC023 · 📱 9876543210</text>
+  <rect x="170" y="272" width="88" height="17" rx="8.5" fill="#0D2744"/>
+  <text x="214" y="284" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="#64B5F6">📗 Issued</text>
+  <line x1="24" y1="308" x2="252" y2="308" stroke="#2A2A2A" stroke-width=".5"/>
+
+  <text x="24" y="320" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Op. System Concepts</text>
+  <rect x='168' y='308' width='52' height='15' rx='7' fill='#1A1A1A' stroke='#333' stroke-width='.5'/><text x='194' y='318' text-anchor='middle' font-family='system-ui,sans-serif' font-size='7.5' fill='#666666' font-family='monospace'>OS-LO02</text>
+  <rect x="220" y="308" width="40" height="15" rx="7.5" fill="#1B3A1C"/>
+  <text x="240" y="318" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="#81C784">Return</text>
+
+  <rect x="14" y="348" width="252" height="82" rx="12" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/>
+  <text x="24" y="362" font-family="system-ui,sans-serif" font-size="7" fill="#666666">Order #PBB-2024</text>
+  <text x="24" y="376" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#F0F0F0">Sneha Reddy</text>
+  <text x="24" y="389" font-family="system-ui,sans-serif" font-size="7.5" fill="#A0A0A0">ID: 2022ME011 · 📱 9000112233</text>
+  <rect x="170" y="362" width="88" height="17" rx="8.5" fill="#1B3A1C"/>
+  <text x="214" y="374" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="#81C784">✓ Returned</text>
+  <line x1="24" y1="398" x2="252" y2="398" stroke="#2A2A2A" stroke-width=".5"/>
+
+  <text x="24" y="410" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Compiler Design</text>
+  <rect x='168' y='398' width='52' height='15' rx='7' fill='#1A1A1A' stroke='#333' stroke-width='.5'/><text x='194' y='408' text-anchor='middle' font-family='system-ui,sans-serif' font-size='7.5' fill='#666666' font-family='monospace'>CD-LO05</text>
+  <rect x="220" y="398" width="40" height="15" rx="7.5" fill="#1B3A1C"/>
+  <text x="240" y="408" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="#81C784">✓ Done</text>
+
+
+  </g>
+</svg>

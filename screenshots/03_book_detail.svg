@@ -1,0 +1,72 @@
+<svg width="280" height="560" viewBox="0 0 280 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="screenClip">
+      <rect x="12" y="20" width="256" height="496" rx="28"/>
+    </clipPath>
+  </defs>
+  <!-- device body -->
+  <rect x="2" y="2" width="276" height="556" rx="38" fill="#1C1C1E" stroke="#3A3A3C" stroke-width="1.5"/>
+  <rect x="10" y="18" width="260" height="500" rx="30" fill="#0F0F0F"/>
+  <!-- notch -->
+  <rect x="95" y="18" width="90" height="22" rx="0 0 11 11" fill="#1C1C1E"/>
+  <!-- screen content -->
+  <g clip-path="url(#screenClip)">
+    
+  <!-- bar -->
+  <rect x="12" y="20" width="256" height="38" fill="#E8621A"/>
+  <rect x="18" y="28" width="24" height="24" rx="12" fill="rgba(255,255,255,.2)"/>
+  <text x="30" y="44" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="white">‹</text>
+  <text x="140" y="43" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="white">Book Details</text>
+  <!-- hero -->
+  <rect x="12" y="58" width="256" height="150" fill="#E8621A"/>
+  <rect x="100" y="68" width="80" height="108" rx="9" fill="#3949AB" stroke="rgba(255,255,255,.15)" stroke-width="1"/>
+  <text x="140" y="108" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="white">Data Structures</text>
+  <text x="140" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" fill="rgba(255,255,255,.8)">&amp; Algorithms</text>
+  <text x="140" y="200" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="800" fill="white">Data Structures and Algorithms</text>
+  <text x="140" y="214" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="rgba(255,255,255,.8)">by Thomas H. Cormen</text>
+  <!-- white card -->
+  <rect x="22" y="218" width="236" height="272" rx="18" fill="#1E1E1E" stroke="#2A2A2A" stroke-width=".5"/>
+  <!-- chips row -->
+  <rect x="30" y="228" width="56" height="16" rx="8" fill="#2A2A2A"/>
+  <text x="58" y="240" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" fill="#A0A0A0">📖 CS Core</text>
+  <rect x="92" y="228" width="62" height="16" rx="8" fill="#1B3A1C"/>
+  <text x="123" y="240" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" fill="#81C784">● 4 available</text>
+  <rect x="160" y="228" width="66" height="16" rx="8" fill="#2A2A2A"/>
+  <text x="193" y="240" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" fill="#A0A0A0">📄 1292 pages</text>
+  <!-- divider -->
+  <line x1="30" y1="251" x2="250" y2="251" stroke="#2A2A2A" stroke-width=".5"/>
+  <!-- about -->
+  <text x="30" y="264" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#F0F0F0">About this book</text>
+  <text x="30" y="278" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">The definitive reference covering sorting,</text>
+  <text x="30" y="290" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">searching, graph algorithms, and dynamic</text>
+  <text x="30" y="302" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">programming with rigorous mathematical</text>
+  <text x="30" y="314" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">foundations. Used worldwide in CS programs.</text>
+  <!-- divider -->
+  <line x1="30" y1="323" x2="250" y2="323" stroke="#2A2A2A" stroke-width=".5"/>
+  <!-- details table -->
+  <text x="30" y="337" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">ISBN</text>
+  <text x="250" y="337" text-anchor="end" font-family="system-ui,sans-serif" font-size="8" fill="#F0F0F0">978-0262033848</text>
+  <text x="30" y="350" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">Publisher</text>
+  <text x="250" y="350" text-anchor="end" font-family="system-ui,sans-serif" font-size="8" fill="#F0F0F0">MIT Press</text>
+  <text x="30" y="363" font-family="system-ui,sans-serif" font-size="8" fill="#A0A0A0">Edition</text>
+  <text x="250" y="363" text-anchor="end" font-family="system-ui,sans-serif" font-size="8" fill="#F0F0F0">4th Edition</text>
+  <!-- QR section -->
+  <rect x="28" y="374" width="220" height="38" rx="9" fill="#2A2A2A"/>
+  <rect x="34" y="379" width="28" height="28" rx="6" fill="#111"/>
+  <rect x="37" y="382" width="22" height="22" rx="3" fill="white"/>
+  <rect x="39" y="384" width="8" height="8" rx="1" fill="black"/>
+  <rect x="50" y="384" width="8" height="8" rx="1" fill="black"/>
+  <rect x="39" y="395" width="8" height="8" rx="1" fill="black"/>
+  <rect x="50" y="393" width="4" height="4" rx=".5" fill="black"/>
+  <rect x="55" y="398" width="4" height="4" rx=".5" fill="black"/>
+  <text x="70" y="390" font-family="system-ui,sans-serif" font-size="8.5" font-weight="700" fill="#F0F0F0">Unique QR per copy</text>
+  <text x="70" y="402" font-family="system-ui,sans-serif" font-size="7.5" fill="#A0A0A0">Scanned at issue &amp; return</text>
+  <!-- button -->
+  <rect x="28" y="420" width="220" height="36" rx="12" fill="#E8621A"/>
+  <text x="140" y="443" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="white">🛒  Add to Cart</text>
+  <!-- outline btn -->
+  <rect x="28" y="462" width="220" height="30" rx="12" fill="none" stroke="#E8621A" stroke-width="1.5"/>
+  <text x="140" y="481" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="600" fill="#E8621A">← Back to Catalogue</text>
+
+  </g>
+</svg>
