@@ -42,7 +42,7 @@
   <text x="26" y="292" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#FFB74D">Order Summary</text>
   
   <circle cx="32" cy="271" r="4" fill="#3949AB"/>
-  <text x="42" y="276" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Data Structures & Algorithms</text>
+  <text x="42" y="276" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Data Structures &amp; Algorithms</text>
   <line x1="24" y1="283" x2="256" y2="283" stroke="#3A3A1A" stroke-width=".5"/>
 
   <circle cx="32" cy="293" r="4" fill="#C62828"/>

@@ -52,7 +52,7 @@
   <line x1="24" y1="308" x2="252" y2="308" stroke="#2A2A2A" stroke-width=".5"/>
 
   <text x="24" y="320" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Op. System Concepts</text>
-  <rect x='168' y='308' width='52' height='15' rx='7' fill='#1A1A1A' stroke='#333' stroke-width='.5'/><text x='194' y='318' text-anchor='middle' font-family='system-ui,sans-serif' font-size='7.5' fill='#666666' font-family='monospace'>OS-LO02</text>
+  <rect x='168' y='308' width='52' height='15' rx='7' fill='#1A1A1A' stroke='#333' stroke-width='.5'/><text x='194' y='318' text-anchor='middle' font-family='system-ui,sans-serif' font-size='7.5' fill='#666666'>OS-LO02</text>
   <rect x="220" y="308" width="40" height="15" rx="7.5" fill="#1B3A1C"/>
   <text x="240" y="318" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="#81C784">Return</text>
 
@@ -65,7 +65,7 @@
   <line x1="24" y1="398" x2="252" y2="398" stroke="#2A2A2A" stroke-width=".5"/>
 
   <text x="24" y="410" font-family="system-ui,sans-serif" font-size="8.5" fill="#F0F0F0">Compiler Design</text>
-  <rect x='168' y='398' width='52' height='15' rx='7' fill='#1A1A1A' stroke='#333' stroke-width='.5'/><text x='194' y='408' text-anchor='middle' font-family='system-ui,sans-serif' font-size='7.5' fill='#666666' font-family='monospace'>CD-LO05</text>
+  <rect x='168' y='398' width='52' height='15' rx='7' fill='#1A1A1A' stroke='#333' stroke-width='.5'/><text x='194' y='408' text-anchor='middle' font-family='system-ui,sans-serif' font-size='7.5' fill='#666666'>CD-LO05</text>
   <rect x="220" y="398" width="40" height="15" rx="7.5" fill="#1B3A1C"/>
   <text x="240" y="408" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7.5" font-weight="700" fill="#81C784">✓ Done</text>
 
